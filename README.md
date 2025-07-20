@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leul-chali&label=Profile%20views&color=0e75b6&style=flat" alt="leul-chali" /> </p>
 
-- 🔭 I’m currently working on [High Tech](https://hightech.com)
+- 🔭 I’m currently working on [High Tech](https://hightech.et)
 
 - 🌱 I’m currently learning **Kotlin and ReactJs**
 
