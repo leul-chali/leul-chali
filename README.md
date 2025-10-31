@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [High Tech](https://hightech.et)
 
-- 🌱 I’m currently learning **Kotlin and ReactJs**
+- 🌱 I’m currently learning **Flutter and node js **
 
 - 📫 How to reach me **leulchail77@gmail.com**
 
@@ -28,8 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leul-chali&show_icons=true&locale=en" alt="leul-chali" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="leul chali" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p> -->
