@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GIF Hero Section -->
-<img src="https://raw.githubusercontent.com/leul-chali/leul-chali/hero-animation.gif" width="80%" alt="Leul Chali - Full Stack Developer Animation">
+<img src="https://raw.githubusercontent.com/leul-chali/leul-chali/assets/hero-animation.gif" width="80%" alt="Leul Chali - Full Stack Developer Animation">
 
 </div>
 
