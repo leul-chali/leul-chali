@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- GIF Hero Section -->
-<img src="./hero-animation.gif" width="80%" alt="Leul Chali - Full Stack Developer Animation">
-
+<img src="./hero-animation.gif" width="100%" height="400px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Leul Chali Animation">
 </div>
 
 <h1 align="center">Hi 👋, I'm Leul Chali</h1>
