@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GIF Hero Section -->
-<img srcset="./hero-animation.gif" width="80%" alt="Leul Chali - Full Stack Developer Animation">
+<img src="./hero-animation.gif" width="80%" alt="Leul Chali - Full Stack Developer Animation">
 
 </div>
 
